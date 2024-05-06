@@ -34,7 +34,7 @@ WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
 
 # Deployed Link
-
+https://pwa-text-editor-challenge-19.onrender.com/
 
 # Usage
 To use the application from the command line:
@@ -44,5 +44,3 @@ To use the application from the command line:
 4. Run the command `npm run build`
 5. Start the application by running the command `npm run start`.
 6. Navigate to browser and navigate to the port
-
-
