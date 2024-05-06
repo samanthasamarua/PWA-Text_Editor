@@ -43,4 +43,4 @@ To use the application from the command line:
 3. Open root directory in your VS code terminal.
 4. Run the command `npm run build`
 5. Start the application by running the command `npm run start`.
-6. Navigate to browser and navigate to the port
+6. Navigate to browser and can add text, if you wish to install locally select the install button
